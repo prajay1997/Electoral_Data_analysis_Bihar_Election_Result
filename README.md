@@ -164,8 +164,3 @@ This project demonstrates how electoral datasets can be transformed into actiona
 
 ---
 
-## Author
-
-**Prajay Urkude**
-
-Political Data Analyst | Electoral Analytics | AI & Data-Driven Political Intelligence
